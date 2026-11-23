@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm QueenEsther 👋
 
-<!--
-**LifeWithQueenie/LifeWithQueenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-End Developer** based in Lagos, Nigeria. I build responsive web interfaces and enterprise workflow automation.
 
-Here are some ideas to get you started:
+## What I work with
+- **Front-end:** HTML5, CSS3, JavaScript, React, Next.js, Responsive Design
+- **Back-end:** PHP, MySQL, TypeScript, Python
+- **Workflow automation:** ProcessMaker 4, BPMN 2.0
+- **Tools:** Git, GitHub, Jira, Trello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience highlight
+Built a digital approval portal at Ecobank Nigeria that replaced email-based approvals with a single workflow.
+
+## Let's connect
+- 💼 https://www.linkedin.com/in/queen-esther-tawo-59a97325b/
+- 🌐 Portfolio: (https://portfolio-sage-tau-57.vercel.app/#work)
+- 📧 queenesthertawo@gmail.com
